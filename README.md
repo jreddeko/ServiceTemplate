@@ -1,6 +1,6 @@
 # ServiceTemplate
 
-ASP.NET Core 3.1 template for creating a basic service with connection to and api and OPENID authentication server.
+ASP.NET Core 3.1 template for creating a basic windows service w/logging, httpclient, and a background hosted service.
 
 ## Importing the template
 
