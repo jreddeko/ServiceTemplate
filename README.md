@@ -1,4 +1,4 @@
-# ServiceTemplate
+# ASP.NET Core ServiceTemplate
 
 ASP.NET Core 3.1 template for creating a basic windows service w/logging, httpclient, and a background hosted service.
 
