@@ -4,7 +4,6 @@ ASP.NET Core 3.1 template for creating a basic windows service w/logging, httpcl
 
 ## Importing the template
 
-Use the Export Template Wizard
 Visual Studio provides an Export Template Wizard that can be used to update an existing template:
 
 1. Select the template that you want to update and continue through the steps to create the new project.
