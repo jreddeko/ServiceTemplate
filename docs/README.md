@@ -6,12 +6,10 @@ ASP.NET Core 3.1 template for creating a basic windows service w/logging, httpcl
 
 Visual Studio provides an Export Template Wizard that can be used to update an existing template:
 
-1. Select the template that you want to update and continue through the steps to create the new project.
-2. Modify the project in Visual Studio. For example, change the output type or add a new file to the project.
-3. On the Project menu, choose Export Template.
-   The Export Template Wizard opens.
-4. Follow the prompts in the wizard to export the template as a .zip file.
-5. Restart Visual Studio, and then use the search bar in the New Project dialog to help you find the project template you just added.
+1. Open the Service template project in Visual Studio.
+2. On the Project menu, choose Export Template.
+3. Follow the prompts in the wizard to export the template as a .zip file.
+4. Restart Visual Studio, and then use the search bar in the New Project dialog to help you find the project template you just added.
 
 ## Whats included?
 
